@@ -48,3 +48,8 @@ Given an array **A** of integers and integer **K**, return the maximum **S** suc
 * `1 <= A.length <= 100`
 * `1 <= A[i] <= 1000`
 * `1 <= K <= 20005`
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
